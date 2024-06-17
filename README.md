@@ -1,6 +1,6 @@
 ### Olá! Eu sou Malone Campelo 👋🏻
-### Estudante de Análise e desenvolvimento de sistemas, cursando o 1 semestre.
-### Apaixonado pela tecnologia ❤️🫰
+#### Estudante de Análise e desenvolvimento de sistemas, cursando o 1 semestre.
+#### Apaixonado pela tecnologia ❤️🫰
 
 
 [![LinkDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malone-campelo-429b67258/)
@@ -17,4 +17,4 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </div><br/>
 
-#### Estutante de tecnologia em busca de realizar transição de carreira, apaixonado pela tecnlogia!
+#### Estutante de tecnologia em busca de realizar transição de carreira, apaixonado pela tecnologia!
